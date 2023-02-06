@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "https://joshweb3.github.io/csb-tyktyr/static/css/main.93cb09ca.chunk.css",
+    "main.js": "https://joshweb3.github.io/csb-tyktyr/static/js/main.c455659c.chunk.js",
+    "main.js.map": "https://joshweb3.github.io/csb-tyktyr/static/js/main.c455659c.chunk.js.map",
+    "runtime-main.js": "https://joshweb3.github.io/csb-tyktyr/static/js/runtime-main.01716e2a.js",
+    "runtime-main.js.map": "https://joshweb3.github.io/csb-tyktyr/static/js/runtime-main.01716e2a.js.map",
+    "static/js/2.684f48a5.chunk.js": "https://joshweb3.github.io/csb-tyktyr/static/js/2.684f48a5.chunk.js",
+    "static/js/2.684f48a5.chunk.js.map": "https://joshweb3.github.io/csb-tyktyr/static/js/2.684f48a5.chunk.js.map",
+    "index.html": "https://joshweb3.github.io/csb-tyktyr/index.html",
+    "static/css/main.93cb09ca.chunk.css.map": "https://joshweb3.github.io/csb-tyktyr/static/css/main.93cb09ca.chunk.css.map",
+    "static/js/2.684f48a5.chunk.js.LICENSE.txt": "https://joshweb3.github.io/csb-tyktyr/static/js/2.684f48a5.chunk.js.LICENSE.txt",
+    "static/media/binancebull.cbe36f62.png": "https://joshweb3.github.io/csb-tyktyr/static/media/binancebull.cbe36f62.png",
+    "static/media/blockwallpaper.5d12e7a2.jpg": "https://joshweb3.github.io/csb-tyktyr/static/media/blockwallpaper.5d12e7a2.jpg",
+    "static/media/dmed.caedd9fe.png": "https://joshweb3.github.io/csb-tyktyr/static/media/dmed.caedd9fe.png",
+    "static/media/ethcompsmall.76855450.gif": "https://joshweb3.github.io/csb-tyktyr/static/media/ethcompsmall.76855450.gif",
+    "static/media/magicwand.7dbcbaac.png": "https://joshweb3.github.io/csb-tyktyr/static/media/magicwand.7dbcbaac.png",
+    "static/media/me.5a0b6bcd.jpg": "https://joshweb3.github.io/csb-tyktyr/static/media/me.5a0b6bcd.jpg",
+    "static/media/msuwebsitelogo.56937312.png": "https://joshweb3.github.io/csb-tyktyr/static/media/msuwebsitelogo.56937312.png",
+    "static/media/slot.809c86d6.webp": "https://joshweb3.github.io/csb-tyktyr/static/media/slot.809c86d6.webp",
+    "static/media/soberRewards.a25befe7.webp": "https://joshweb3.github.io/csb-tyktyr/static/media/soberRewards.a25befe7.webp",
+    "static/media/splitEstate.aa76bc65.webp": "https://joshweb3.github.io/csb-tyktyr/static/media/splitEstate.aa76bc65.webp",
+    "static/media/ticketjam.3b0306ba.png": "https://joshweb3.github.io/csb-tyktyr/static/media/ticketjam.3b0306ba.png",
+    "static/media/vault.4578f973.png": "https://joshweb3.github.io/csb-tyktyr/static/media/vault.4578f973.png",
+    "static/media/vault23.fc4a5084.png": "https://joshweb3.github.io/csb-tyktyr/static/media/vault23.fc4a5084.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01716e2a.js",
+    "static/js/2.684f48a5.chunk.js",
+    "static/css/main.93cb09ca.chunk.css",
+    "static/js/main.c455659c.chunk.js"
+  ]
+}
